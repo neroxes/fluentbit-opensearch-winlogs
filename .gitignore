@@ -1,0 +1,3 @@
+# never commit real credentials
+*.local.conf
+.env
